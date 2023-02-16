@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: FragmentTestProject
+Bundle-SymbolicName: FragmentTestProject
+Bundle-Version: 1.0.0.qualifier
+Fragment-Host: HostTestProject;bundle-version="[1.0.0,1.0.1)"
+Require-Bundle: org.junit;bundle-version="4.13.2"
+Automatic-Module-Name: FragmentTestProject
+Bundle-RequiredExecutionEnvironment: JavaSE-17
