@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: FragmentTestProject
-Bundle-SymbolicName: FragmentTestProject
+Bundle-Name: FragmentTestProject2
+Bundle-SymbolicName: Fragment_Test_Project
 Bundle-Version: 1.0.0.qualifier
 Fragment-Host: HostTestProject;bundle-version="1.0.0"
 Require-Bundle: junit-jupiter-api;bundle-version="5.10.1"
